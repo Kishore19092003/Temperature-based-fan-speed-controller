@@ -51,9 +51,16 @@ The **16×2 LCD display** shows the measured temperature and the current fan sta
 * LCD Display
 * Temperature Monitoring
 
-## 📷 Project Images
+## 📂 Project Files
 
-Project images and circuit diagrams will be added here.
+* 📄 [Project Report](https://github.com/Kishore19092003/Temperature-based-fan-speed-controller/blob/main/Mini_Project_report.pdf)
+* 📊 [Project Presentation](https://github.com/Kishore19092003/Temperature-based-fan-speed-controller/blob/main/Mini_Project_ppt.pptx)
+* 💻 [Arduino Source Code](https://github.com/Kishore19092003/Temperature-based-fan-speed-controller/blob/main/Mini-project_source-code.ino)
+* 📷 [Project Image 1](https://github.com/Kishore19092003/Temperature-based-fan-speed-controller/blob/main/Mini-project_image1.png)
+* 📷 [Project Image 2](https://github.com/Kishore19092003/Temperature-based-fan-speed-controller/blob/main/Mini-project_image2.png)
+* 📷 [Project Image 3](https://github.com/Kishore19092003/Temperature-based-fan-speed-controller/blob/main/Mini-project_image3.png)
+* 🔌 [Circuit Diagram](https://github.com/Kishore19092003/Temperature-based-fan-speed-controller/blob/main/Mini-project_circuit-diagram.jpg)
+
 
 ## 🚀 Future Improvements
 
